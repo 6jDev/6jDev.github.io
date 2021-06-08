@@ -14,6 +14,7 @@ Development logs on games down below
 - Kill house in Storage Hall
 - More cover on the surface
 - Ambience, toggleable
+- New 'Punished' Team
 
 ### Fixed
 - All guns nerfed
