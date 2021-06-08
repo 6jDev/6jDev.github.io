@@ -13,6 +13,7 @@ Development logs on games down below
 - Damage leaderboard
 - Kill house in Storage Hall
 - More cover on the surface
+- Ambience, toggleable
 
 ### Fixed
 - All guns nerfed
