@@ -22,6 +22,7 @@ Development logs on games down below
 - Anchored parts
 - Storage Hall walls, you shouldn't see terain clipping through when far away
 - Lag on lower end computers (hopefully)
+- Sprint speed
 - Probably more stuff I have forgot
 
 ### Removed
