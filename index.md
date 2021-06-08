@@ -4,7 +4,7 @@ Development logs on games down below
 
 ## June 8th, 2021, DTRH
 
-Added
+### Added
 - New OTS camera system, replacing the shift lock
 - New admin commands, including kill logs
 - New guns, MP5 and Remington (scope not fully working yet)
@@ -14,7 +14,7 @@ Added
 - Kill house in Storage Hall
 - More cover on the surface
 
-Fixed
+### Fixed
 - All guns nerfed
 - Shotgun firerate fixed
 - Respawn timer, changed to 12 seconds instead of 15
@@ -23,7 +23,7 @@ Fixed
 - Lag on lower end computers (hopefully)
 - Probably more stuff I have forgot
 
-Removed
+### Removed
 - Top breach hole
 - Default name tag and health bar
 - Ragdol, this caused problems with animated scripts
