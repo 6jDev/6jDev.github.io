@@ -1,34 +1,56 @@
-# 6j's development logs
-Development logs on games down below
+# [SCPF] Development Logs
+Development logs on Site-Alpha made by MaD
 
 
-## June 8th, 2021, DTRH
+
+## July 6th, 2021 - Update worked on by Green and oo6j
 
 ### Added
-- New OTS camera system, replacing the shift lock
-- New admin commands, including kill logs
-- New guns, MP5 and Remington (scope not fully working yet)
-- Gun spread
-- Bullet range
-- Damage leaderboard
-- Kill house in Storage Hall
-- More cover on the surface
-- Ambience, toggleable
-- New 'Punished' Team
+- Announcement System
+- Crouch and Salute emotes (C and B)
 
-### Fixed
-- All guns nerfed
-- Shotgun firerate fixed
-- Respawn timer, changed to 12 seconds instead of 15
-- Anchored parts
-- Storage Hall walls, you shouldn't see terain clipping through when far away
-- Lag on lower end computers (hopefully)
-- Sprint speed
-- Probably more stuff I have forgot
+
+## July 10th, 2021 - Update worked on by Green and Doge
+
+### Added
+- AA-12 (Nu-7)
+- AK-5 (DMR, Beta-7)
+
+### Changes
+- Swapped Nu-7's SCAR-H for B-7's G36C
 
 ### Removed
-- Top breach hole
-- Default name tag and health bar
-- Ragdol, this caused problems with animated scripts
-- Shiftlock
+- SPAS-12 from Nu-7's loadout
 
+## July 9th, 2021 - Update worked on by Green and Doge
+
+### Added
+- New doors around the whole facility
+- GOC Spawn
+- Zipties
+
+### Changes
+- Fixed cuff sound
+- Fixed cuff hold animation
+- Re-named XM11 (SCU's automatic assault rifle) to 'M4'
+
+### Removed
+- SD Weapon Rack
+- Old SD armoury
+
+## July 6th, 2021 - Update worked on by Green and Doge
+
+### Added
+- Reworked SD Spawn
+- Terminals (Only Props)
+- New Thumbnail
+- Automorphs for SD and MTF
+- Weapon Lockers (SD and MTF spawn)
+- Added 3 more vending machines in the SD and SCU armories
+
+### Changes
+- SD Spawn Doors
+
+### Removed
+- SD Weapon Rack
+- Old SD armoury
